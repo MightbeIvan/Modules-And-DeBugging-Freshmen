@@ -21,11 +21,7 @@
 
 
 
-
-
-
- #Q4: Make a different Animal say someting else
-
+#Q4: Make a different Animal say someting else
 
 
 
@@ -39,9 +35,11 @@
 
 
 #Debugging try to find and resolve the errors.
-cowsay.cow(Hello world)
 
-prnt(random.randint(0,10)
+
+# cowsay.cow(Hello world)
+
+# prnt(random.randint(0,10)
 
 
 
